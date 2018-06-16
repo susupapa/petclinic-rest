@@ -23,6 +23,6 @@ class PetClinicController {
     
     @GetMapping("/developer")
     ResponseEntity getDeveloper(){
-        return ResponseEntity.ok("sungho_update_")
+        return ResponseEntity.ok("sungho_update__")
     }
 }
